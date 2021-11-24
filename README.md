@@ -4,5 +4,6 @@ It is a hunter game created with Vue JS. The monster and the user can attack eac
 
 My project developed directly using Vue.js script.
 
-To start the project:
+# To start the project:
+
 npm run serve
